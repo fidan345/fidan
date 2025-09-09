@@ -1,1 +1,5 @@
-str_1='AaBbCcDd'
+stack=
+stack.append('a')
+stack.append('b')
+stack.append('c')
+print(stack)
